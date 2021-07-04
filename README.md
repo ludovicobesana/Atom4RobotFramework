@@ -21,7 +21,10 @@
 
 ## Key Features
 
-
+* Adds syntax highlighting and snippets to Robot Framework files in Atom
+* Opening a robot file will scan the parent project for keywords that will later be available as suggestions
+* Hold Ctrl while hovering the mouse or use 'ctrl-alt-enter' (windows & linux) to highlight keywords and open the definition
+* Run your tests using shortcuts
 
 
 ## Support
