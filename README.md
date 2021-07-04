@@ -44,4 +44,4 @@ MIT
 
 > [ludovicobesana.com](https://www.ludovicobesana.com) &nbsp;&middot;&nbsp;
 > GitHub [@ludovicobesana](https://github.com/ludovicobesana) &nbsp;&middot;&nbsp;
-> Twitter [@ludovcicobesana](https://twitter.com/ludovicobesana)
+> Twitter [@ludovicobesana](https://twitter.com/ludovicobesana)
