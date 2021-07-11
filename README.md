@@ -47,6 +47,36 @@
 
 <a href="https://atom.io/packages/terminus"><img src="images/terminus.png" alt="terminus" width="500px"></a>
 
+## How To Use
+
+Once the packages has been downloaded, all you have to do is activate it from:
+
+*Settings > Packages*
+
+Windows/Linux
+
+```
+ctrl + , 
+``` 
+
+MacOS:
+
+```
+command + , 
+``` 
+
+###### platformio / terminus
+
+To make the most of these packages, you need to configure them via the package settings.
+
+First of all, access the package settings accessible from the Atom "Packages" section.
+
+
+
+
+
+
+
 ## Support
 
 <a href="https://www.buymeacoffee.com/ludovicobesana" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
