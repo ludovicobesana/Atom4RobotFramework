@@ -65,17 +65,61 @@ MacOS:
 command + , 
 ``` 
 
-###### platformio / terminus
+##### platformio / terminus
 
 To make the most of these packages, you need to configure them via the package settings.
 
 First of all, access the package settings accessible from the Atom "Packages" section.
 
+Once this is done enter the following values in the "Custom Text" section:
+
+<img src="images/custom-text.png" alt="Custom Text" width="500px">
 
 
+###### Custom Text 1
+
+```
+robot -L TRACE -d results/ -t "$S" $D/$F ; open ./results/log.html 
+``` 
+
+###### Custom Text 2
+
+```
+robot -L TRACE -d results/ $D/$F ; open ./results/log.html 
+``` 
+
+###### Custom Text 3
+
+```
+robot -L TRACE -d results/ cases/ ; open ./results/log.html 
+``` 
+
+If you work with Windows remember to replace **start** instead of "open"
+
+As a second point, access the Atom keymaps and insert these configurations into it.
+
+*Atom > Keymap*
+
+<img src="images/keymap.png" alt="Custom Text" width="500px">
 
 
+###### platformio 
 
+```
+'atom-text-editor':
+  'ctrl-cmd-1':  'platformio-ide-terminal:insert-custom-text-1'
+  'ctrl-cmd-2':  'platformio-ide-terminal:insert-custom-text-2'
+  'ctrl-cmd-3':  'platformio-ide-terminal:insert-custom-text-3'
+``` 
+
+###### terminus
+
+```
+'atom-text-editor':
+  'ctrl-cmd-1':  'terminus:insert-custom-text-1'
+  'ctrl-cmd-2':  'terminus:insert-custom-text-2'
+  'ctrl-cmd-3':  'terminus:insert-custom-text-3'
+```  
 
 ## Support
 
