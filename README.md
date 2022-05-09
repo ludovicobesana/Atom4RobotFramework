@@ -121,11 +121,6 @@ As a second point, access the Atom keymaps and insert these configurations into 
   'ctrl-cmd-3':  'terminus:insert-custom-text-3'
 ```  
 
-## Support
-
-<a href="https://www.buymeacoffee.com/ludovicobesana" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
 <!-- ## You may also like...
 
 - [Text](https://github.com/text) - Text -->
